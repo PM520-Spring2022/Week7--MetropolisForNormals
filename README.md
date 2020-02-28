@@ -35,6 +35,7 @@ Use the code you wrote for the Metropolis algorithm for sampling from a Normal d
 Use an asymmetric proposal kernel that at each iteration:
 * with prob. 3/4 adds a number y to x e, so that x’ = x+y, where y~Unif[0,c]
 * with prob. 1/4 subtracts a number y from x, so x’ = x-y, where y~Unif[0,c].
+
 Correct it by using the Hastings Ratio [i.e. adding the term q(x’->x)/ q(x->x’)]
 
 Run the algorithm and show that it works now.
