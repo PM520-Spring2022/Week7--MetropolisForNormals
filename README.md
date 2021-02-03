@@ -15,7 +15,7 @@ Notes:
 * You can construct (almost) independent samples by sub-sampling your iterations, sampling every nth iteration. 
 * Explore how the choice of n you need to use to get independent sub-samples varies as a function of c above.
 
-The file MetropolisNormalPseudocode continas psuedocode for this problem.
+The file MetropolisNormalPseudocode contains psuedocode for this problem.
 
 ## Part 2
 
@@ -40,4 +40,4 @@ Correct it by using the Hastings Ratio [i.e. adding the term q(xâ€™->x)/ q(x->xâ
 
 Run the algorithm and show that it works now.
 
-If you get this working properly ou are now doing Metropolis-Hastings Markov chain Monte Carlo [MH-MCMC]. This is perhaps the most common form of MCMC.
+If you get this working properly you are now doing Metropolis-Hastings Markov chain Monte Carlo [MH-MCMC]. This is perhaps the most common form of MCMC.
