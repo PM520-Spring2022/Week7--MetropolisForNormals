@@ -1,6 +1,6 @@
-# Week6--MetropolisForNormals
+# Week7--MetropolisForNormals
 
-This is the repo for exercise 1 of week 6, in which you are coding up a version of the Metropolis algorithm to sample from some distribution of interest. 
+This is the repo for exercise 1 of week 7, in which you are coding up a version of the Metropolis algorithm to sample from some distribution of interest. 
 
 ## Part 1
 The instructions were as follows:
